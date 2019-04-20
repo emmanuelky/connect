@@ -1,3 +1,4 @@
+#Connect-App
 
 Connect - was my final project at Ironhack Berlin. 
 It was built with the MERN Stack (MongoDB, Express, React and Node). Its a FullStack application which is dedicated to all tech lovers in the world.
